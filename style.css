@@ -1,0 +1,49 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Nanum+Gothic&display=swap');
+
+header {
+	background-image: linear-gradient(90deg, #ff5f41 0, #ff5344 25%, #f94646 50%, #ec3947 75%, #e02d49 100%);
+}
+
+h1 {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 70px;
+}
+
+p {
+	font-family: 'Nanum Gothic', sans-serif;
+	color: white;
+	font-size: 12px;
+}
+
+footer {
+	background-image: linear-gradient(85deg, #7b62ff 0, #5353f2 50%, #2044d4 100%);
+}
+
+.namefooter{
+	color: white;
+	font-weight: bold;
+}
+
+.card-title {
+	font-family: 'Nanum Gothic', sans-serif;
+	font-weight: bold;
+}
+
+.modal-content {
+	background: rgba( 255, 255, 255, 0.75 );
+	box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+	backdrop-filter: blur( 10.5px );
+	-webkit-backdrop-filter: blur( 10.5px );
+	border-radius: 10px;
+	border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.card-body {
+	bbackground: rgba( 248, 231, 28, 0.20 );
+	box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+	backdrop-filter: blur( 20.0px );
+	-webkit-backdrop-filter: blur( 20.0px );
+
+
+}
